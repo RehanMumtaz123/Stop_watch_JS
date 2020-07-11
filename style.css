@@ -1,0 +1,17 @@
+h1{
+    display: inline-block;
+    background-color: aliceblue;
+    width: 100px;
+    background-color: ;
+}
+.one{
+    width: 200px;
+    border-radius: 10px;
+    border: 5px solid tan;
+}
+.two{
+    width: 100px;
+    border-radius: 30px;
+    border: 5px solid tan;
+
+}
